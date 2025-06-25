@@ -108,7 +108,7 @@ Built a full-stack web app for OPC UA client-server data collection and real-tim
 
 ### 🧠 **Doiini** 
 > Task management app with Pomodoro timer, tagging, and calendar view. <br>
-> its just a project i made to better understand next.js and i found my self always using it to better organise my tasks.
+> its just a project i made to better understand next.js and i found my self always using it to better organise my tasks. <br>
 **Stack:** Next.js
 
 ---
