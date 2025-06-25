@@ -38,7 +38,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzafallahi&show_icons=true&count_private=true&hide_rank=false&theme=radical)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzafallahi&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafallahi&layout=compact&theme=radical)
 
