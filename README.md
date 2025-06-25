@@ -83,7 +83,8 @@ Built a full-stack web app for OPC UA client-server data collection and real-tim
 ---
 
 ## 📊 GitHub Stats
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzafallahi&show_icons=true&count_private=true&hide_rank=false&theme=radical)
 
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzafallahi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafallahi&layout=compact&theme=radical)
 
 ---
