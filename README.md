@@ -70,7 +70,7 @@ Built a full-stack web app for OPC UA client-server data collection and real-tim
 **Stack:** Spring Boot · Angular · MySQL · MongoDB  
 > ✔ Real-time data processing and export to CSV/Excel.
 
-### 📚 **9ariniTN ** (PFA Project)
+### 📚 **9arini.TN** (PFA Project)
 > An e-learning platform with course management, authentication, and a superadmin .NET dashboard.  
 **Stack:** PHP · MySQL · AJAX · .NET WinForms
 
