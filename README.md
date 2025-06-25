@@ -44,7 +44,7 @@
 
 ---
 
-## 💼 Experience
+## 💼🛠 Experience & Projects
 
 ### 🔹 **Cloud Commit Software** (PFE Internship)
 `Jan 2025 – Jun 2025`  
@@ -69,18 +69,6 @@ Developed a registration platform with Google Sheets integration.
 Built a full-stack web app for OPC UA client-server data collection and real-time processing.  
 **Stack:** Spring Boot · Angular · MySQL · MongoDB  
 > ✔ Real-time data processing and export to CSV/Excel.
-
----
-
-## 🛠 Projects
-
-### 📚 [9arini.tn](https://9arini.tn)
-> An e-learning platform with course management, authentication, and a superadmin .NET dashboard.  
-**Stack:** PHP · MySQL · AJAX · .NET WinForms
-
-### 🧠 Doiini
-> Task management app with Pomodoro timer, tagging, and calendar view.  
-**Stack:** Next.js
 
 ---
 
