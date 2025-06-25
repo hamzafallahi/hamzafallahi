@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza Fallahi
 
-🎓 Business Computing Graduate from [ESEN](https://esen.rnu.tn/) with the highest honors.
+🎓 Business Computing Graduate from [ESEN](https://esen.rnu.tn/) with the highest honors. <br>
 💻 Full Stack Web Developer | Passionate about scalable and secure web applications  
 🌍 Based in Tunis, Tunisia
 
