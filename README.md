@@ -28,12 +28,6 @@
 
 ## 💼 Experience
 
-### 🔹 **Addixo Smart Factory** (Intern)
-`Aug 2024 – Sep 2024`  
-Built a full-stack web app for OPC UA client-server data collection and real-time processing.  
-**Stack:** Spring Boot · Angular · MySQL · MongoDB  
-> ✔ Real-time data processing and export to CSV/Excel.
-
 ### 🔹 **Cloud Commit Software** (PFE Internship)
 `Jan 2025 – Jun 2025`  
 Developed a microservice-based appointment platform.  
@@ -51,6 +45,12 @@ Built a public-facing ESG web platform.
 Developed a registration platform with Google Sheets integration.  
 **Stack:** Next.js · PostgreSQL · Google Sheets API  
 🔗 [Visit site](https://esenet-jobfair2024.vercel.app)
+
+### 🔹 **Addixo Smart Factory** (Intern)
+`Aug 2024 – Sep 2024`  
+Built a full-stack web app for OPC UA client-server data collection and real-time processing.  
+**Stack:** Spring Boot · Angular · MySQL · MongoDB  
+> ✔ Real-time data processing and export to CSV/Excel.
 
 ---
 
