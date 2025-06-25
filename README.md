@@ -36,22 +36,33 @@
 
 ---
 
-## 🔧 Tech Stack
+<h2 align="center">🔧 Tech Stack</h2>
 
-**Languages**  
-`JavaScript` `TypeScript` `Java` 
+<p align="center">
+  <b>Languages</b><br/>
+  <code>JavaScript</code> <code>TypeScript</code> <code>Java</code>
+</p>
 
-**Frontend**  
-`React` `Next.js` `Tailwind CSS`
+<p align="center">
+  <b>Frontend</b><br/>
+  <code>React</code> <code>Next.js</code> <code>Tailwind CSS</code>
+</p>
 
-**Backend**  
- `Express.js` `Node.js` `Spring Boot` `Redis` `RabbitMQ` `NGINX`  
+<p align="center">
+  <b>Backend</b><br/>
+  <code>Express.js</code> <code>Node.js</code> <code>Spring Boot</code> <code>Redis</code> <code>RabbitMQ</code> <code>NGINX</code>
+</p>
 
-**Database**  
-`PostgreSQL` `MongoDB` `MySQL` 
+<p align="center">
+  <b>Database</b><br/>
+  <code>PostgreSQL</code> <code>MongoDB</code> <code>MySQL</code>
+</p>
 
-**Other**  
-`Keycloak` `Docker` `Google Sheets API` `Google Calendar API`
+<p align="center">
+  <b>Other</b><br/>
+  <code>Keycloak</code> <code>Docker</code> <code>Google Sheets API</code> <code>Google Calendar API</code>
+</p>
+
 
 ---
 
