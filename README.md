@@ -65,7 +65,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hamzafallahi&theme=transparent)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafallahi&layout=compact&bg_color=00000000&title_color=006AFF&text_color=006AFF)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzafallahi)](https://github.com/anuraghazra/github-readme-stats)
+[![Hamza Fallahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzafallahi&show_icons=true&title_color=006AFF&text_color=006AFF&icon_color=006AFF&hide_border=true)](https://github.com/hamzafallahi)
 
 
 
