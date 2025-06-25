@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza Fallahi
 
-🎓 Business Computing Graduate from [ESEN](https://esen.rnu.tn/) with the highest honors.\n
+🎓 Business Computing Graduate from [ESEN](https://esen.rnu.tn/) with the highest honors.
 💻 Full Stack Web Developer | Passionate about scalable and secure web applications  
 🚀 Currently working on ESG & Industry 4.0 web platforms  
 🌍 Based in Tunis, Tunisia
@@ -76,7 +76,7 @@ Built a full-stack web app for OPC UA client-server data collection and real-tim
 
 ### 🧠 **Doiini** 
 > Task management app with Pomodoro timer, tagging, and calendar view.
-> its just a project i made to better understand next.js and i found my self always using it to better organise my tasks ... 
+> its just a project i made to better understand next.js and i found my self always using it to better organise my tasks.
 **Stack:** Next.js
 
 ---
