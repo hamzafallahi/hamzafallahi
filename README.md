@@ -13,6 +13,8 @@
 - 💼 [Portfolio](https://hamzafallahi.vercel.app/)
 - 💻 [GitHub](https://github.com/hamzafallahi)
 - 📧 hamza.fallahi@esen.tn
+- ![Profile Views](https://komarev.com/ghpvc/?username=hamzafallahi&label=Profile%20views&color=ff69b4&style=flat)
+
 
 ---
 
@@ -84,9 +86,7 @@ Built a full-stack web app for OPC UA client-server data collection and real-tim
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=hamzafallahi&label=Profile%20views&color=ff69b4&style=flat)
 
----
 
 ## 📊 GitHub Stats
 ![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzafallahi&show_icons=true&count_private=true&hide_rank=false&theme=radical)
