@@ -74,49 +74,7 @@
 </p>
 
 
----
 
-## 💼🛠 Experience & Projects
-
-### 🔹 **Cloud Commit Software** (PFE Internship)
-`Jan 2025 – Jun 2025`  
-Developed a microservice-based appointment platform.  
-**Stack:** React · Express.js · Docker · Redis · RabbitMQ · Keycloak  
-> ✔ Used React Query & i18n · Auth via Keycloak · NGINX-based architecture.
-
-### 🔹 **TAA ESG Platform** (Freelance)
-`Oct 2024 – May 2025`  
-Built a public-facing ESG web platform.  
-**Stack:** Next.js  
-🔗 [taa-esg.tn](https://www.taa-esg.tn)
-
-### 🔹 **EsenNET Job Fair 2024 Website**
-`Nov 2024`  
-Developed a registration platform with Google Sheets integration.  
-**Stack:** Next.js · PostgreSQL · Google Sheets API  
-🔗 [Visit site](https://esenet-jobfair2024.vercel.app)
-
-### 🔹 **Addixo Smart Factory** (Intern)
-`Aug 2024 – Sep 2024`  
-Built a full-stack web app for OPC UA client-server data collection and real-time processing.  
-**Stack:** Spring Boot · Angular · MySQL · MongoDB  
-> ✔ Real-time data processing and export to CSV/Excel.
-
-### 📚 **9arini.TN** (PFA Project)
-> An e-learning platform with course management, authentication, and a superadmin .NET dashboard.  
-**Stack:** PHP · MySQL · AJAX · .NET WinForms
-
-### 🧠 **Doiini** 
-> Task management app with Pomodoro timer, tagging, and calendar view. <br>
-> its just a project i made to better understand next.js and i found my self always using it to better organise my tasks. <br>
-**Stack:** Next.js
-
----
-
-## 👨‍🏫 Community & Clubs
-
-- **Hive Club @ ESEN** – Web Development Trainer (HTML, CSS, JS, PHP)  
-- Participated in **Bee Battle Hackathon**
 
 ---
 
