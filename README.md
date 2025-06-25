@@ -7,6 +7,15 @@
 
 ---
 
+## 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hamza-fallahi-b3b5b0246/)
+- 💼 [Portfolio](https://hamzafallahi.vercel.app/)
+- 💻 [GitHub](https://github.com/hamzafallahi)
+- 📧 hamza.fallahi@esen.tn
+
+---
+
 ## 🔧 Tech Stack
 
 **Languages**  
@@ -73,14 +82,7 @@ Built a full-stack web app for OPC UA client-server data collection and real-tim
 
 ---
 
-## 🌐 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hamza-fallahi-b3b5b0246/)
-- 💼 [Portfolio](https://hamzafallahi.vercel.app/)
-- 💻 [GitHub](https://github.com/hamzafallahi)
-- 📧 hamza.fallahi@esen.tn
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamzafallahi&label=Profile%20views&color=ff69b4&style=flat)
 
