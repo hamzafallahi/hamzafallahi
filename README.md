@@ -70,21 +70,7 @@
 <!-- Additional metrics using GitHub extra pins -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafallahi&layout=compact&title_color=006AFF&text_color=006AFF&hide_border=true&card_width=300)](https://github.com/hamzafallahi)
 
-### Detailed Metrics
-<details>
-<summary>View additional stats</summary>
 
-| Metric                      | Value       |
-|-----------------------------|-------------|
-| **Total Stars Earned**      | ![Stars](https://img.shields.io/badge/dynamic/json?color=006AFF&label=&query=stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamzafallahi&logo=github) |
-| **Total Commits (2025)**    | ![2025 Commits](https://img.shields.io/badge/dynamic/json?color=006AFF&label=&query=total&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fcommits%3Fq%3Dauthor%3Ahamzafallahi%20committer-date%3A2025-01-01..2025-12-31&logo=github) |
-| **Total PRs**               | ![PRs](https://img.shields.io/badge/dynamic/json?color=006AFF&label=&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Ahamzafallahi%20type%3Apr&logo=github) |
-| **Merged PRs Percentage**   | ![Merged](https://img.shields.io/badge/dynamic/json?color=006AFF&label=&query=merge_percentage&url=https%3A%2F%2Fgh-pr-stats.vercel.app%2Fapi%2F%3Fusername%3Dhamzafallahi&logo=github) |
-| **Total PRs Reviewed**      | ![Reviews](https://img.shields.io/badge/dynamic/json?color=006AFF&label=&query=total&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dreviewed-by%3Ahamzafallahi%20type%3Apr&logo=github) |
-| **Total Issues**            | ![Issues](https://img.shields.io/badge/dynamic/json?color=006AFF&label=&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Ahamzafallahi%20type%3Aissue&logo=github) |
-| **Contributed to (last year)** | ![Contribs](https://img.shields.io/badge/dynamic/json?color=006AFF&label=&query=repositories&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fhamzafallahi%2Frepos%3Ftype%3Dall&logo=github) |
-
-</details>
 
 
 
