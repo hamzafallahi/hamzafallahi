@@ -35,8 +35,8 @@
 
 ---
 
-<h2 align="center">🔧 Tech Stack</h2>
 
+## 🔧 Tech Stack
 <p align="center">
   <b>Languages</b><br/>
   <code>JavaScript</code> <code>TypeScript</code> <code>Java</code>
@@ -65,7 +65,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamzafallahi&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="General Stats" />
