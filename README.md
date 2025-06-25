@@ -70,6 +70,15 @@ Built a full-stack web app for OPC UA client-server data collection and real-tim
 **Stack:** Spring Boot · Angular · MySQL · MongoDB  
 > ✔ Real-time data processing and export to CSV/Excel.
 
+### 📚 **9arini.TN ** (PFA Project)
+> An e-learning platform with course management, authentication, and a superadmin .NET dashboard.  
+**Stack:** PHP · MySQL · AJAX · .NET WinForms
+
+### 🧠 **Doiini** 
+> Task management app with Pomodoro timer, tagging, and calendar view.
+> its just a project i made to better understand next.js and i found my self always using it to better organise my tasks ... 
+**Stack:** Next.js
+
 ---
 
 ## 👨‍🏫 Community & Clubs
