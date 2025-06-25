@@ -62,12 +62,13 @@
 ---
 
 ## 📊 GitHub Stats
-<br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?hamzafallahi=DenverCoder1)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=hamzafallahi&theme=transparent)](https://git.io/streak-stats)
 
 
+
+
+---
 
 
 
