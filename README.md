@@ -64,6 +64,7 @@
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hamzafallahi&theme=transparent)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafallahi&layout=compact&theme=radical&bg_color=00000000)
 
 
 
