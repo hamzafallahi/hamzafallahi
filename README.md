@@ -4,10 +4,6 @@
 💻 Full Stack Web Developer | Passionate about scalable and secure web applications  
 🌍 Based in Tunis, Tunisia
 
----
-
-## 🌐 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-fallahi-b3b5b0246/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
