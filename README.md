@@ -55,10 +55,16 @@
 
 ---
 
-## 📊 GitHub Stats
-![General Stats](https://github-readme-stats.vercel.app/api?username=hamzafallahi&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+<h2 align="center">📊 GitHub Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafallahi&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzafallahi&count_private=true&show_icons=true&theme=radical&include_all_commits=true" alt="General Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafallahi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ---
 
