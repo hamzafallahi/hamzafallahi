@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamza Fallahi
 
-🎓 Business Computing student at [ESEN](https://esen.rnu.tn/)  
+🎓 Business Computing Graduate at [ESEN](https://esen.rnu.tn/)  
 💻 Full Stack Web Developer | Passionate about scalable and secure web applications  
 🚀 Currently working on ESG & Industry 4.0 web platforms  
 🌍 Based in Tunis, Tunisia
@@ -10,19 +10,19 @@
 ## 🔧 Tech Stack
 
 **Languages**  
-`JavaScript` `TypeScript` `Java` `PHP` `C++`
+`JavaScript` `TypeScript` `Java` 
 
 **Frontend**  
-`React` `Next.js` `Tailwind CSS` `HTML` `CSS`
+`React` `Next.js` `Tailwind CSS`
 
 **Backend**  
-`Spring Boot` `Express.js` `Node.js` `Docker` `NGINX` `Redis` `RabbitMQ`
+ `Express.js` `Node.js` `Spring Boot` `Redis` `RabbitMQ` `NGINX`  
 
 **Database**  
-`PostgreSQL` `MongoDB` `MySQL` `Google Sheets API`
+`PostgreSQL` `MongoDB` `MySQL` 
 
 **Other**  
-`Keycloak` `JWT Auth` `Git` `GitHub` `CI/CD`
+`Keycloak` `Docker` `Google Sheets API` `Google Calendar API`
 
 ---
 
