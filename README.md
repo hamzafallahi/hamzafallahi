@@ -62,6 +62,7 @@
 ---
 
 ## 📊 GitHub Stats
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hamzafallahi&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
