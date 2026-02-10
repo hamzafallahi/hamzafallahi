@@ -67,6 +67,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzafallahi&layout=compact&bg_color=00000000&title_color=006AFF&text_color=006AFF)
 [![Hamza Fallahi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamzafallahi&show_icons=true&title_color=006AFF&text_color=006AFF&icon_color=006AFF&hide_border=true&include_all_commits=true&custom_title=Hamza%20Fallahi%27s%20GitHub%20Stats&card_width=450)](https://github.com/hamzafallahi)
 
+## 📊 Contribution Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzafallahi&theme=tokyo-night)
+
 
 
 
