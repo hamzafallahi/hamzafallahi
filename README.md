@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/hamza-fallahi-b3b5b0246/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://hamzafallahi.vercel.app/">
+  <a href="https://hamzafallahi.me/">
     <img src="https://img.shields.io/badge/-Portfolio-121212?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/hamzafallahi">
