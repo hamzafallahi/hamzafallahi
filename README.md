@@ -2,7 +2,7 @@
 
 💼 **SAP ABAP & BTP Consultant** at [DXC Technology](https://dxc.com/)  
 🎓 **2nd-Year Software Engineering Student** at [UIT](https://uit.tn/) & **Business Computing Graduate** from [ESEN](https://esen.rnu.tn/) with the highest honors  
-💻 **Full-Stack & ERP Developer** | Passionate about Enterprise Solutions, Cloud Architectures, and Open Source  
+💻 **Full-Stack & SAP Developer** | Passionate about Enterprise Solutions, Cloud Architectures, and Open Source  
 🌍 Based in **Tunis, Tunisia**
 
 <p align="center">
