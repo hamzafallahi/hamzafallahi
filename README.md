@@ -39,27 +39,46 @@
 
 <p align="center">
   <b>Enterprise & SAP</b><br/>
-  <code>ABAP</code> <code>SAP BTP</code> <code>SAP Fiori / SAPUI5</code> <code>SAP CAP</code> <code>SAP LCNC</code>
+  <img src="https://img.shields.io/badge/ABAP-0FA5E9?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_BTP-0A6ED1?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_Fiori_%2F_SAPUI5-0A6ED1?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_CAP-181717?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_LCNC-438EFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
 <p align="center">
   <b>Languages</b><br/>
-  <code>JavaScript</code> <code>TypeScript</code> <code>Java</code> <code>Python</code> <code>SQL</code>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <p align="center">
   <b>Frontend</b><br/>
-  <code>React</code> <code>Next.js</code> <code>Tailwind CSS</code>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 <p align="center">
   <b>Backend & Architecture</b><br/>
-  <code>Node.js</code> <code>Express.js</code> <code>Spring Boot</code> <code>Redis</code> <code>RabbitMQ</code> <code>NGINX</code>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
 <p align="center">
   <b>Databases & DevOps</b><br/>
-  <code>PostgreSQL</code> <code>MongoDB</code> <code>MySQL</code> <code>Docker</code> <code>Git</code>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
